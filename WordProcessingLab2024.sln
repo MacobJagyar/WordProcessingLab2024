@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProcessingLab2024", "WordProcessingLab2024\WordProcessingLab2024.csproj", "{285BC5BA-0CD1-4DC5-B300-4508F3F3EE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285BC5BA-0CD1-4DC5-B300-4508F3F3EE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285BC5BA-0CD1-4DC5-B300-4508F3F3EE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285BC5BA-0CD1-4DC5-B300-4508F3F3EE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285BC5BA-0CD1-4DC5-B300-4508F3F3EE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F521E303-657E-4E09-A080-E2AD178258D5}
+	EndGlobalSection
+EndGlobal
